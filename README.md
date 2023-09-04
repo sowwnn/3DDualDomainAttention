@@ -1,2 +1,66 @@
 # 3DDualDomainAttention
 3D-DDA: 3D Dual-Domain Attention For Brain Tumor Segmentation
+
+---
+
+## Author
+
+[Nhu-Tai Do](https://dntai.vneasy.net/)
+
+[Hoang Son-Vo Thanh](https://sonvth.vercel.app/about)
+
+[Tram-Tran Nguyen-Quynh]()
+
+[Soo-Hyung Kim]()
+
+---
+
+[Slide]
+
+[Paper]
+
+[Processdings]
+
+---
+
+# Abstract
+
+![Grad-cam visualization of the encoding feature map at three axes in DynUnet with/without 3D-DDA](static/fig1_demo_(1).png)
+
+Grad-cam visualization of the encoding feature map at three axes in DynUnet with/without 3D-DDA
+
+Accurate brain tumor segmentation plays an essential role in the diagnosis process. However, there are challenges due to the variety of tumors in low contrast, morphology, location, annotation bias, and imbalance among tumor regions. This work proposes a novel 3D dual-domain attention module to learn local and global information in spatial and context domains from encoding feature maps in Unet. Our attention module generates refined feature maps from the enlarged reception field at every stage by attention mechanisms and residual learning to focus on complex tumor regions. Our experiments on BraTS 2018 have demonstrated superior performance compared to existing state-of-the-art methods
+
+---
+
+# Method
+
+![3D Dual-domain Attention attached into DynUnet backbone at four stages](static/fig2_overview.png)
+
+3D Dual-domain Attention attached into DynUnet backbone at four stages
+
+**More detail…**
+
+![3D-DDA block details.](static/fig3_details.png)
+
+3D-DDA block details.
+
+# Paper
+
+![067757__80685.png](static/067757__80685.png)
+
+[[PDF]](https://1drv.ms/b/s!ArlplJhiPYx6gnw8_jQHEYPu2_sc?e=dSPoOn)
+
+# Citation
+
+```python
+@INPROCEEDINGS{,
+  author={Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)}, 
+  title={3D-DDA: 3D Dual-Domain Attention For Brain Tumor Segmentation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
+```
