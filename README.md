@@ -3,7 +3,7 @@
 
 ![Supported Python versions](https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/docs/images/python.svg)
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
-[![Framework: MONAI](https://img.shields.io/badge/Framework-PyTorch-green.svg)](https://monai.io/)
+[![Framework: MONAI](https://img.shields.io/badge/Framework-MONAI-green.svg)](https://monai.io/)
 
 ---
 
