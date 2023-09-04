@@ -1,25 +1,24 @@
 # 3DDualDomainAttention
 3D-DDA: 3D Dual-Domain Attention For Brain Tumor Segmentation
 
+![Supported Python versions](https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/docs/images/python.svg)
+[![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
+[![Framework: MONAI](https://img.shields.io/badge/Framework-PyTorch-green.svg)](https://monai.io/)
+
 ---
 
 ## Author
 
-- [Nhu-Tai Do](https://dntai.vneasy.net/)
+[Nhu-Tai Do](https://dntai.vneasy.net/)<sup>&dagger;</sup> , [Hoang Son-Vo Thanh](https://sonvth.vercel.app/about)<sup>&dagger;</sup> , [Tram-Tran Nguyen-Quynh]()<sup>&dagger;</sup>  and [Soo-Hyung Kim]()
 
-- [Hoang Son-Vo Thanh](https://sonvth.vercel.app/about)
-
-- [Tram-Tran Nguyen-Quynh]()
-
-- [Soo-Hyung Kim]()
+<sup>&dagger;</sup> Equal Contribution
 
 ---
+[[`Slide`]()]
+[[`Paper`]()]
+[[`Project Page`](https://www.sowwn.dev/pub-dualdomain)]
+[[`Present`]()]
 
-- [Slide]
-
-- [Paper]
-
-- [Processdings]
 
 ---
 
@@ -54,6 +53,8 @@ Accurate brain tumor segmentation plays an essential role in the diagnosis proce
 <p href="https://1drv.ms/b/s!ArlplJhiPYx6gnw8_jQHEYPu2_sc?e=dSPoOn">[PDF]</p>
 </div>
 
+# Inference
+***Update soon***
 
 # Citation
 
