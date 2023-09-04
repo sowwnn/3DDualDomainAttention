@@ -27,7 +27,7 @@
 
 
 <div align="center">
-<img width=500 src= "static/fig1_demo_(1).png"/>
+<img width=300 src= "static/fig1_demo_(1).png"/>
 <p align="center"> Grad-cam visualization of the encoding feature map at three axes in DynUnet with/without 3D-DDA </p>
 </div>
 
@@ -37,20 +37,20 @@ Accurate brain tumor segmentation plays an essential role in the diagnosis proce
 # Method
 
 <div align="center">
-<img width=500 src= "static/fig2_overview.png"/>
+<img width=400 src= "static/fig2_overview.png"/>
 <p> 3D Dual-domain Attention attached into DynUnet backbone at four stages </p>
 </div>
 
 **More detail…**
 
 <div align="center">
-<img width=500 src= "static/fig3_details.png"/>
+<img width=400 src= "static/fig3_details.png"/>
 <p> 3D-DDA block details. </p>
 </div>
 
 # Paper
 <div align="center">
-<img width=500 src= "static/067757__80685.png" href="https://1drv.ms/b/s!ArlplJhiPYx6gnw8_jQHEYPu2_sc?e=dSPoOn"/>
+<img width=200 src= "static/067757__80685.png" href="https://1drv.ms/b/s!ArlplJhiPYx6gnw8_jQHEYPu2_sc?e=dSPoOn"/>
 <p href="https://1drv.ms/b/s!ArlplJhiPYx6gnw8_jQHEYPu2_sc?e=dSPoOn">[PDF]</p>
 </div>
 
