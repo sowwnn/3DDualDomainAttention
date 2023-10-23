@@ -59,13 +59,13 @@ Accurate brain tumor segmentation plays an essential role in the diagnosis proce
 # Citation
 
 ```
-@INPROCEEDINGS{,
-  author={Nhu-Tai Do, Hoang-Son Vo-Thanh, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim},
+@INPROCEEDINGS{10222602,
+  author={Do, Nhu-Tai and Vo-Thanh, Hoang-Son and Nguyen-Quynh, Tram-Tran and Kim, Soo-Hyung},
   booktitle={2023 IEEE International Conference on Image Processing (ICIP)}, 
-  title={3D-DDA: 3D Dual-Domain Attention For Brain Tumor Segmentation}, 
+  title={3D-DDA: 3D Dual-Domain Attention for Brain Tumor Segmentation}, 
   year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}}
+  pages={3215-3219},
+  doi={10.1109/ICIP49359.2023.10222602}}
 ```
